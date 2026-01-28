@@ -1,7 +1,7 @@
 # Embedded Systems Journey
 
 ## Purpose
-This repository documents my structured, execution-focused journey toward senior-level
+This repository documents structured, execution-focused journey toward senior-level
 embedded and hardware systems engineering.
 
 The focus is on:
