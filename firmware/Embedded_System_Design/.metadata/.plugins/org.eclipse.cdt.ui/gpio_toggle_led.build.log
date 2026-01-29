@@ -1,0 +1,10 @@
+23:00:42 **** Incremental Build of configuration Debug for project gpio_toggle_led ****
+make -j20 all 
+arm-none-eabi-size  gpio_toggle_led.elf 
+   text	   data	    bss	    dec	    hex	filename
+    836	      0	   1568	   2404	    964	gpio_toggle_led.elf
+Finished building: default.size.stdout
+ 
+
+23:00:42 Build Finished. 0 errors, 0 warnings. (took 146ms)
+
